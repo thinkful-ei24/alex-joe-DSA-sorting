@@ -31,5 +31,5 @@ function quicksort(array, start = 0, end = array.length) {
   return array;
 }
 
-console.log(quicksort([89, 30, 25, 32, 72, 70, 51]));
-console.log(count);
+console.log('quick sort', quicksort([89, 30, 25, 32, 72, 70, 51]));
+console.log('count', count);
