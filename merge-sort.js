@@ -142,5 +142,6 @@ const data = [
   5
 ];
 
-console.log(mergeSort(data));
+const data2 = [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 ];
+console.log(mergeSort(data2));
 console.log(count);
